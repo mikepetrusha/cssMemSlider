@@ -82,11 +82,11 @@ ul {
 
 .slider-nav__btn {
     display: inline-block;
-    width: 1rem;
     height: 1rem;
-    border-radius: 50%;
+    width: 1rem;
     background-color: white;
-    border: 3px solid white;
+    border: 2px solid white;
+    border-radius: 50%;
     transition: all 0.3s ease-in-out;
 }
 
